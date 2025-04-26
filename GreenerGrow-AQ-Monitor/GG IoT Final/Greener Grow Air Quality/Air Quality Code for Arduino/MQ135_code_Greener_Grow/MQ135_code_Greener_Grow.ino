@@ -6,11 +6,11 @@
 
 /* change with your data*/
 
-String apiKey = "IJOTGCPL1F0KRV0M"; // Change with your apikey
+String apiKey = "YourThingSpeakAPIkey"; // Change with your apikey
 
-String ssid = "Rain"; // change with your wifi name
+String ssid = "YourWiFiSSID"; // change with your wifi name
 
-String password = "rain@2022";// Change with your wifi password
+String password = "WiFiPassword";// Change with your wifi password
 
 /***********************/
 

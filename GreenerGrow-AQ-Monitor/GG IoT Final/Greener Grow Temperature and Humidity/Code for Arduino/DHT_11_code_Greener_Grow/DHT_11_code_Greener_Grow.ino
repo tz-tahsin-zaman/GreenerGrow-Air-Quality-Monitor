@@ -4,9 +4,9 @@
 #define TX 3
 #define dht_apin 11 // Analog Pin sensor is connected to
 dht11 dhtObject;
-String AP = "Rain";       // AP NAME
-String PASS = "rain@2022"; // AP PASSWORD
-String API = "VYB2C4JJHPZCB30U";   // Write API KEY
+String AP = "Your WiFi SSID";       // AP NAME
+String PASS = "WiFi Password"; // AP PASSWORD
+String API = "Your ThingSpeak API key";   // Write API KEY
 String HOST = "api.thingspeak.com";
 String PORT = "80";
 int countTrueCommand;
